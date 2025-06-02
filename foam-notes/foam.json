@@ -1,0 +1,7 @@
+{
+  "foam.templates.directory": "templates",
+  "foam.openDailyNote.directory": "journal",
+  "foam.openWeeklyNote.directory": "weekly",
+  "foam.openDailyNote.template": "daily-template",
+  "foam.openWeeklyNote.template": "weekly-template"
+}
